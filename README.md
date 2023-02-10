@@ -6,6 +6,8 @@
  
 # Instructions:
   - Double Click to the currency_converter currency_converter.csproj
-  - And build it
-  !OR!
-  - dotnet run
+  - And build it<br>
+  !OR!<br>
+  - ```bash 
+$ dotnet run
+```
