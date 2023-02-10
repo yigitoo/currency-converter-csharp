@@ -8,4 +8,4 @@
   - Double Click to the currency_converter currency_converter.csproj
   - And build it<br>
   !OR!<br>
-  - ```bash $ dotnet run```
+  - ``` $ dotnet run```
