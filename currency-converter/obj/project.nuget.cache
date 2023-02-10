@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ezvckNUQ7cTmjGLeMbLZZpghGKg/KTB77PcCmTH+4YnW6p8M7lBg/ONIUHt/KCc8vUlU2gpIFtliKSUiyQcZNg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Yigit\\source\\repos\\currency-converter\\currency-converter\\currency-converter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yigit\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

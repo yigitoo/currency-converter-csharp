@@ -1,0 +1,17 @@
+C:\Users\Yigit\source\repos\currency-converter\currency-converter\bin\Debug\net6.0\currency-converter.exe
+C:\Users\Yigit\source\repos\currency-converter\currency-converter\bin\Debug\net6.0\currency-converter.deps.json
+C:\Users\Yigit\source\repos\currency-converter\currency-converter\bin\Debug\net6.0\currency-converter.runtimeconfig.json
+C:\Users\Yigit\source\repos\currency-converter\currency-converter\bin\Debug\net6.0\currency-converter.dll
+C:\Users\Yigit\source\repos\currency-converter\currency-converter\bin\Debug\net6.0\currency-converter.pdb
+C:\Users\Yigit\source\repos\currency-converter\currency-converter\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Yigit\source\repos\currency-converter\currency-converter\obj\Debug\net6.0\currency-converter.csproj.AssemblyReference.cache
+C:\Users\Yigit\source\repos\currency-converter\currency-converter\obj\Debug\net6.0\currency-converter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yigit\source\repos\currency-converter\currency-converter\obj\Debug\net6.0\currency-converter.AssemblyInfoInputs.cache
+C:\Users\Yigit\source\repos\currency-converter\currency-converter\obj\Debug\net6.0\currency-converter.AssemblyInfo.cs
+C:\Users\Yigit\source\repos\currency-converter\currency-converter\obj\Debug\net6.0\currency-converter.csproj.CoreCompileInputs.cache
+C:\Users\Yigit\source\repos\currency-converter\currency-converter\obj\Debug\net6.0\currency-converter.csproj.CopyComplete
+C:\Users\Yigit\source\repos\currency-converter\currency-converter\obj\Debug\net6.0\currency-converter.dll
+C:\Users\Yigit\source\repos\currency-converter\currency-converter\obj\Debug\net6.0\refint\currency-converter.dll
+C:\Users\Yigit\source\repos\currency-converter\currency-converter\obj\Debug\net6.0\currency-converter.pdb
+C:\Users\Yigit\source\repos\currency-converter\currency-converter\obj\Debug\net6.0\currency-converter.genruntimeconfig.cache
+C:\Users\Yigit\source\repos\currency-converter\currency-converter\obj\Debug\net6.0\ref\currency-converter.dll
